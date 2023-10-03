@@ -5,10 +5,6 @@
   <img width="460" height="300" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif" alt="animated" />
-</p>
-
 ## 💫 About Me :
 
 - 🔭 I’m currently working on my Skills.
