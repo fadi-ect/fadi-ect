@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from France</h3>
 
 <p align="center">
-  <img width="460" height="300" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
+  <img src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 </p>
 
 ## 💫 About Me :
