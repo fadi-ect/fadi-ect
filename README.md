@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadi</h1>
 <h3 align="center">A passionate Data Scientist from France</h3>
 
-<img src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif" align="center" width="1000">
+<img src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif" align="center" width="800">
 
 ## 💫 About Me :
 
