@@ -21,17 +21,3 @@
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub) ![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab)
-
-<>---
-
-<>## 📊 GitHub Stats :
-
-<>![](https://github-readme-streak-stats.herokuapp.com/?user=nexus9111&theme=gruvbox&hide_border=false)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-[![](https://visitcount.itsvg.in/api?id=nexus9111&icon=0&color=7)](https://visitcount.itsvg.in)
